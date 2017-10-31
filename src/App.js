@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
+import { Button } from 'antd';
 
 class Index extends Component {
   render() {
     return (
-      <h1>Hello world.</h1>
+      <div>
+        <Button>Click me!</Button>
+        <h1>Hello world.</h1>
+      </div>
     )
   }
 }
