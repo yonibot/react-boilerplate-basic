@@ -8,7 +8,7 @@ Includes:
 * Ant Design
 * MobX & MobX React
 
-I included these packaging because I like using them. Especially MobX :)
+I included these packages because I like using them. Especially MobX :)
 
 To start:
 ```
